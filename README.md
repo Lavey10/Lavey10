@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lavey10
-- 👀 I’m interested in Data Analysis and automation
+- 👀 I’m interested in data analysis and automation
 - 🌱 I’m currently learning python and R 
 
 
